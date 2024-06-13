@@ -3,4 +3,4 @@
 
 * [1-catwalk-promises-API-W1-exercise](./index.js)
 
-* [2-](./)
+* [-Cat-Walk-Week-2-Async-await](./)
